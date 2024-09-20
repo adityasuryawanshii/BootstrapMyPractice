@@ -264,4 +264,13 @@ section i{
 .col-md-6{
     color: aliceblue;
 }
+
+.mycard{
+    padding: 30px;
+    box-shadow: 0px 0px 30px aqua;
+    font-size: 20px;
+    color: aliceblue;
+ 
+}
+
 /* End about */
