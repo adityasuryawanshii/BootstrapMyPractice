@@ -268,9 +268,26 @@ section i{
 .mycard{
     padding: 30px;
     box-shadow: 0px 0px 30px aqua;
-    font-size: 20px;
+    margin-top: 10px;
     color: aliceblue;
+    text-align: center;
+   
  
+}
+.mycard span{
+    font-weight: 900;
+    font-size: 20px;
+}
+.mycard i{
+    font-size: 40px;
+}
+.mycard span:hover{
+    letter-spacing: 1px;
+    transition: 0.5s;
+    -webkit-transition: 0.5s;
+    -moz-transition: 0.5s;
+    -ms-transition: 0.5s;
+    -o-transition: 0.5s;
 }
 
 /* End about */
