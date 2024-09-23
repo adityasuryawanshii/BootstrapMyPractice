@@ -291,3 +291,23 @@ section i{
 }
 
 /* End about */
+
+/* help */
+.help{
+    background-color: aqua;
+    color: aliceblue;
+text-align: center;}
+
+.help p{
+    font-size: 20px;
+    letter-spacing: 1px;
+    font-weight: 100;
+}
+.number{
+    background-color: brown;
+    box-shadow: 0px 0px 30px black;
+}
+.number p:hover{
+    color: blue;
+}
+/* end help */
