@@ -331,6 +331,10 @@ text-align: center;}
     -ms-border-radius: 10px;
     -o-border-radius: 10px;
 }
+.service-card :hover{
+    color: aqua;
+
+}
 .service-card span{
     font-weight: 800;
 }
