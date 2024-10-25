@@ -1,18 +1,15 @@
 .navbar{
     background-color: rgb(32, 91, 179);
     font-size: 20px;
+    position: fixed;
+    top: 0;
+    width: 100%;
+    z-index: 1000; 
 }
 .nav-item{
     padding: 10px 20px;
 }
-.nav-item:hover{
-    /* background-color: aqua; */
-    /* border-radius: 30px;
-    -webkit-border-radius: 30px;
-    -moz-border-radius: 30px;
-    -ms-border-radius: 30px;
-    -o-border-radius: 30px; */
-}
+
 .nav-item:hover .nav-link{
     color: aqua;
 }
